@@ -1,5 +1,5 @@
 /files/
 /cdn/
-/lab/
+.well-known
 /.user.ini
 /.htaccess
